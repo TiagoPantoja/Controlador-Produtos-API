@@ -25,11 +25,11 @@ Para executar a aplicação, siga as etapas abaixo:
 3. Navegue até o diretório raiz do projeto.
 4. Execute o seguinte comando no terminal para compilar o projeto:
 
-`mvn clean install`
+   `mvn clean install`
 
 5. Após a conclusão da compilação, execute o seguinte comando para iniciar a aplicação:
 
-`mvn spring-boot:run`
+   `mvn spring-boot:run`
 
 6. A aplicação estará em execução e você poderá acessar os endpoints da API.
 
