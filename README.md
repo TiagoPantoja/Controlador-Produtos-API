@@ -6,10 +6,11 @@ A API permite a manipulação de registros de produtos, fornecendo endpoints par
 
 ## Tecnologias utilizadas
 
-- Java
-- Spring Boot
-- Spring Data JPA
+- Java 17
+- Spring Boot 3.1
+- Spring Data JPA 3.1.1
 - HATEOAS
+- PostgreSQL
 
 ## Requisitos
 
